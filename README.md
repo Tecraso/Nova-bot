@@ -1,0 +1,2 @@
+# Nova-bot
+✨Novabot>all
